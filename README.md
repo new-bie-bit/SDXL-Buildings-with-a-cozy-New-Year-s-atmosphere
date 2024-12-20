@@ -17,7 +17,7 @@ model_dir = snapshot_download('fangxianxing/Newyear_Style')
 🔗 Git模型下载
 如果你更倾向于使用Git来下载模型，可以使用以下命令：
 git clone https://www.modelscope.cn/fangxianxing/Newyear_Style.git
-exit
+
 📊 数据集下载
 数据集地址：https://www.modelscope.cn/datasets/fangxianxing/Newyear_Style_20241208_145927
 
