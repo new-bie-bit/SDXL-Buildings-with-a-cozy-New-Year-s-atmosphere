@@ -31,4 +31,4 @@ git clone https://www.modelscope.cn/fangxianxing/Newyear_Style.git
 ![image](https://github.com/user-attachments/assets/f1d5d863-5d5b-48a7-b777-37f3603de538)
 
 
-© 2022-2024 ModelScope.cn All rights reserved
+© 2022-2024 ModelScope.cn All rights reserved.
